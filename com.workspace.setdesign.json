@@ -1,0 +1,21 @@
+{
+  "redirect": [
+        {
+              
+		"url_utama": "https://rapstechmodifmotor.blogspot.com/2020/08/slikea-katalog-ruang-kerja.html",
+				
+            	"startapp": "0123456789",
+                "appid": "pub-0123456789",
+                "admobappid": "ca-app-pub-3940256099942544~0123456789",
+                "bannerid": "ca-app-pub-3940256099942544/0123456789",
+                "interid": "ca-app-pub-3940256099942544/0123456789",
+				
+                "inter_count": 2,
+                "enable_mp3": false,
+                "enable_strap": true,
+                "enable_strap_Splah": true,
+                "ads_on_exit_dialog":true
+                 
+        }
+    ]
+}
