@@ -2,7 +2,7 @@
   "redirect": [
         {
               
-		"url_utama": "https://play.google.com/store/apps/details?id=com.latihansoal.soalkelas5sd",
+		"url_utama": "file:///android_asset/offlinePage/index.html",
 				
             	"startapp": "0123456789",
                 "appid": "pub-4915589255204876",
