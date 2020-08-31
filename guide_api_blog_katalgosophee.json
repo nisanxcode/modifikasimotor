@@ -46,11 +46,11 @@
         "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
         "interval": 3,
         "version_app":7,
-        "hpk_admob1":"",
-        "hpk_admob2":"",
-        "hpk_admob3":"",
-        "hpk_admob4":"",
-        "hpk_admob5":""
+        "hpk_admob1":"Asuransi",
+        "hpk_admob2":"Forex",
+        "hpk_admob3":"Kursus",
+        "hpk_admob4":"Internet Marketing",
+        "hpk_admob5":"Hosting"
         }
     ]
 
