@@ -36,14 +36,14 @@
     "Iklan": [
         {
         "status": "0",
-        "link": "https://play.google.com/store/apps/details?id=com.raptech.katalogsophee",
+        "link": "https://play.google.com/store/apps/details?id=com.perzona.piano.tiles.lagu.lathi",
         "pengaturan_iklan":"1",
         "startappid":"12345678",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
         "admob_native": "ca-app-pub-3940256099942544/2247696110",
         "fan_inter": "981545408591412_999151030164183",
         "fan_native_banner": "981545408591412_2870610639684870",
-        "deskripsi_update": "Silahkan update untuk mendapatkan pengalaman baru",
+        "deskripsi_update": "Dari pada BT, yuk main Piano Tiles Lagu Lathi",
         "interval": 3,
         "version_app":8,
         "hpk_admob1":"Asuransi",
